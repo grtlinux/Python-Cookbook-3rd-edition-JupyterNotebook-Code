@@ -1,4 +1,4 @@
-hello world
-this is a test
-of iterating over lines with a history
-python is fun
+1. hello world
+2. this is a test
+3. of iterating over lines with a history
+4. python is fun
