@@ -23,3 +23,6 @@ Most of the code is written in Python 3 and can be ported to Python 2. I have ad
 15. C Extensions
 ```
 
+- [Python : Built-in Functions](https://docs.python.org/3/library/functions.html#vars)
+
+
